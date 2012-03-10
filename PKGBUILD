@@ -1,4 +1,4 @@
-# Maintainer: Jan "heftig" Steffens <jan.steffens@gmail.com>
+# Maintainer: Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>
 
 pkgname=yelp-xsl
 pkgver=3.3.3
