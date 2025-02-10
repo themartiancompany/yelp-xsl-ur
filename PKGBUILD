@@ -44,6 +44,7 @@ makedepends=(
   'autoconf'
   'itstool'
   'git'
+  'which'
 )
 _commit="1658a8eb59a296d9e7b7116fbc79ca778b702e14"  # tags/42.1^0
 source=(
