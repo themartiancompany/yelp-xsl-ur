@@ -41,6 +41,7 @@ license=(
   'GPL'
 )
 makedepends=(
+  'autoconf'
   'itstool'
   'git'
 )
